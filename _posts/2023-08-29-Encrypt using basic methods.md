@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "nothing！！！"
+title:  "nothing"
 author: "UID0"
 tags: UID0
 ---
