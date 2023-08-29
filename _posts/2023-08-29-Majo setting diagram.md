@@ -1,3 +1,10 @@
+---
+layout: post
+title:  "Majo setting diagram"
+author: "UID0"
+tags: Anime
+---
+
 ## Here are some designs of mago from Magica Quartet.
 ![1](https://raw.githubusercontent.com/UID-0000000/UID-0000000.github.io/main/images/ee41bad19dbb24189f0f3ecb5365c6e3df3faef4.jpg)
 ![2](https://raw.githubusercontent.com/UID-0000000/UID-0000000.github.io/main/images/e4738d1a7f30503a2adbfa7f0f6c021313e2c531.jpg)
