@@ -1,3 +1,4 @@
+## Here are some designs of mago from Magica Quartet.
 ![1](https://raw.githubusercontent.com/UID-0000000/UID-0000000.github.io/main/images/ee41bad19dbb24189f0f3ecb5365c6e3df3faef4.jpg)
 ![2](https://raw.githubusercontent.com/UID-0000000/UID-0000000.github.io/main/images/e4738d1a7f30503a2adbfa7f0f6c021313e2c531.jpg)
 ![3](https://raw.githubusercontent.com/UID-0000000/UID-0000000.github.io/main/images/e420f7d29c1c262b04e2a155dedee2b1d0dc7d7f.jpg)
@@ -13,3 +14,5 @@
 ![13](https://raw.githubusercontent.com/UID-0000000/UID-0000000.github.io/main/images/13a6e1d821061d63a0f0772c26f8835c5141a1b8.jpg)
 ![14](https://raw.githubusercontent.com/UID-0000000/UID-0000000.github.io/main/images/e0e9b1f5a9294476eec672e7938715d845112f45.jpg)
 ![15](https://raw.githubusercontent.com/UID-0000000/UID-0000000.github.io/main/images/d6b1435f8e3a10a3539d15697d9496bce1e768e2.jpg)
+
+／人◕ ‿‿ ◕人＼僕と契約して魔法少女になってよ！
