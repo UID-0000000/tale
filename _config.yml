@@ -18,7 +18,7 @@ github: GuangLun2000
 # Build settings
 markdown:       kramdown
 include:
-  - _pages
+  - 
 
 # Assets
 sass:
