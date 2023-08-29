@@ -11,7 +11,7 @@ google_analytics: UA—XXXXXXXX-X
 author:
   name:         UID0
   # url:          https://chester.how
-  email:        chesterhow@gmail.com
+  email:        UID-0000000@gmail.com
 
 # Build settings
 markdown:       kramdown
