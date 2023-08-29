@@ -1,7 +1,7 @@
 # Site settings
 
 title:          Blogs
-baseurl:        "http://jekyllthemes.org/themes/tale/"
+baseurl:        "/tale"
 url:            "https://code84.com/849209.html"
 
 
