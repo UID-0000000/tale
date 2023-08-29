@@ -1,8 +1,9 @@
 # Site settings
 
 title:          BLOGS
+description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/tale"
-url:            "https://uid-0000000.github.io/"
+# url:            "https://uid-0000000.github.io/"
 
 
 
