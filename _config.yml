@@ -1,9 +1,6 @@
 # Site settings
-title:          UnInhabiteD
 
 title:          Blogs
-description:    "Minimal Jekyll theme for storytellers"
-baseurl:        "/tale"
 url:            https://nicebowl.fun/
 
 
