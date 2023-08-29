@@ -1,7 +1,9 @@
 # Site settings
 
 title:          Blogs
-url:            "https://nicebowl.fun/"
+baseurl:        "http://jekyllthemes.org/themes/tale/"
+url:            "https://code84.com/849209.html"
+
 
 
 # Google Analytics
