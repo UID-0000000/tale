@@ -4,8 +4,7 @@ description:    "Minimal Jekyll theme for storytellers"
 baseurl:        "/tale"
 url:            "https://uid-0000000.github.io"
 
-title:          Home
-baseurl:        
+title:          [Home](https://uid-0000000.github.io)   
 url:            "https://uid-0000000.github.io"
 
 # Google Analytics
